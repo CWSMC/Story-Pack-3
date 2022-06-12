@@ -1,3 +1,4 @@
 # Cruel World Survival Story Pack 3
 
-This Project is still in the ondev phase, an alpha build will be released soon!
+## Revelation 1:1-20
+> The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John, who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near. John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood
